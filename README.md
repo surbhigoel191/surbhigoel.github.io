@@ -1,4 +1,3 @@
-# srbhigoel.github.io
 <body>
   <h1>Ian Sikes</h1>
   <h4>CS Student</h4>
