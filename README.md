@@ -5,7 +5,7 @@
 <br><br>
 My first experience with the code was in high school. Though I never had computer science as a subject, I used to listen to my friends' coding experiences now and then. It was when one of my friends told me that she has an intuition that I will love coding, that I became insanely eager to explore the field. I remember spending my vacations in front of laptop searching best teachers online for programming - be it edX, Coursera, Udemy or tens of youtube channels. I remember learning Python, C++ and even Scratch😅 in just two months. 
 <br><br>
-  I came to college and was amazed by the coding culture here.  I joined <b>BITS-ACM-W</b> and became <b>Microsoft Student Partner</b> to enhance my coding skills.
+  I came to college and was amazed by the coding culture here.  I joined <strong>BITS-ACM-W</strong> and became <strong>Microsoft Student Partner</strong> to enhance my coding skills.
 <br><br>
 <i>This website is all about me - my projects, achievements, and interests. My contact information is available at the bottom of the page.</i></p>
 <br><br><br><br><br><br><br><br><br>
