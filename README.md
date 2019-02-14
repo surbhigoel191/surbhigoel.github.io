@@ -9,7 +9,7 @@ I came to college and was amazed by the coding culture here.  I joined BITS-ACM-
 
 This website is all about me - my projects, achievements, and interests. My contact information is available at the bottom of the page.</p>
 
-<div style="position: absolute; bottom: 5px">
+<div style="position: absolute; bottom: 50px">
     <li>
       <a href="f20180424@pilani.bits-pilani.ac.in">Official e-mail</a>
     </li>
