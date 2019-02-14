@@ -8,7 +8,29 @@ My first experience with the code was in high school. Though I never had compute
   I came to college and was amazed by the coding culture here.  I joined <strong>BITS-ACM-W</strong> and became <strong>Microsoft Student Partner</strong> to enhance my coding skills.
 <br><br>
 <i>This website is all about me - my projects, achievements, and interests. My contact information is available at the bottom of the page.</i></p>
-<br><br><hr></hr>
+<br><br><hr>
+<br><br>
+  <h1>Projects<h1>
+  <p>Some of my projects-</p>
+    <ul>
+      <li>
+        <a href="https://github.com/surbhigoel191/Registration-Form">Registration-Form</a>
+      </li>  
+    <li>
+        <a href="https://github.com/surbhigoel191/Countdown-Timer">Countdown-Timer</a>
+      </li>  
+   <li>
+        <a href="https://github.com/surbhigoel191/menu">Menu</a>
+      </li>  
+  </ul>
+  <br><br><hr>
+<br><br>
+  <h1>Education<h1>
+     <ul type = "circle">
+         <li>Freshman, B.E. Honors in Electronics and Instrumentation Engineering, BITS Pilani, Pilani Campus</li>
+       <li>Class 12th, CBSE Board, M.M Public School, 91.8%</li>
+       <li>Class 10th, CBSE Board, Mother Divine Public School, CGPA: 10/10</li>
+      </ul>
   <ul>
    <li>
       <a href="f20180424@pilani.bits-pilani.ac.in">Official e-mail</a>
@@ -24,6 +46,5 @@ My first experience with the code was in high school. Though I never had compute
    </li>
  </ul>
 <hr>
-</hr>
 
 </body>
