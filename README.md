@@ -1,14 +1,14 @@
 <body>
 
   <h1>About Me</h1>
-   <p>Hello! I am <strong>Surbhi</strong>. I'm a <u>backend-end developer</u> and a <u>learning enthusiast</u>. I like to describe myself as a <ins>Tech-Savvy</ins> and <i>Energetic Engineering College Student seeking Growth</i>, i.e., I am crazy about learning anything and everything related to technology (primarily different fields of <u>Computer Science</u>) as well as enjoying my college life.
+   <p>Hello! I am <strong>Surbhi</strong>. I'm a <u>backend-end developer</u> and a <u>learning enthusiast</u>. I like to describe myself as a <i>Tech-Savvy</i> and <i>Energetic Engineering College Student seeking Growth</i>, i.e., I am crazy about learning anything and everything related to technology (primarily different fields of <u>Computer Science</u>) as well as enjoying my college life.
 <br><br>
 My first experience with the code was in high school. Though I never had computer science as a subject, I used to listen to my friends' coding experiences now and then. It was when one of my friends told me that she has an intuition that I will love coding, that I became insanely eager to explore the field. I remember spending my vacations in front of laptop searching best teachers online for programming - be it edX, Coursera, Udemy or tens of youtube channels. I remember learning Python, C++ and even Scratch😅 in just two months. 
 <br><br>
   I came to college and was amazed by the coding culture here.  I joined <strong>BITS-ACM-W</strong> and became <strong>Microsoft Student Partner</strong> to enhance my coding skills.
 <br><br>
 <i>This website is all about me - my projects, achievements, and interests. My contact information is available at the bottom of the page.</i></p>
-<br><br><br><br><br><br><br><br><br>
+<br><br><hr></hr>
   <ul>
    <li>
       <a href="f20180424@pilani.bits-pilani.ac.in">Official e-mail</a>
