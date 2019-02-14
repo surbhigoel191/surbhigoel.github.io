@@ -2,7 +2,7 @@
   <style type ="text/css" >
    .footer{ 
        position: fixed;     
-       text-align: center;    
+       text-align: left;    
        bottom: 0px; 
        width: 100%;
    }  
