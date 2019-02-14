@@ -7,7 +7,7 @@ My first experience with the code was in high school. Though I never had compute
 <br><br>
   I came to college and was amazed by the coding culture here.  I joined <b>BITS-ACM-W</b> and became <b>Microsoft Student Partner</b> to enhance my coding skills.
 <br><br>
-<u><i>This website is all about me - my projects, achievements, and interests. My contact information is available at the bottom of the page.</u></i></p>
+<i>This website is all about me - my projects, achievements, and interests. My contact information is available at the bottom of the page.</i></p>
 <br><br><br><br><br><br><br><br><br>
   <ul>
    <li>
