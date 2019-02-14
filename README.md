@@ -13,10 +13,16 @@
 
 <div class="footer"><ul>
     <li>
-      <a href="https://github.com/ianjsikes">Github</a>
+      <a href="f20180424@pilani.bits-pilani.ac.in">Official e-mail</a>
     </li>
     <li>
-      <a href="https://medium.com/@ianjsikes">Medium</a>
+      <a href="surbhigoel219@gmail.com">Personal e-mail</a>
+    </li>
+  <li>
+      <a href="https://github.com/surbhigoel191">Github</a>
+    </li>
+  <li>
+      <a href="https://linkedin.com/in/surbhi-goel-194846177/">LinkedIn</a>
     </li>
   </ul></div>
 
