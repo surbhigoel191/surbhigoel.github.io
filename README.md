@@ -2,19 +2,41 @@
 
   <h1 style = "font-size: 60px; font-family: didot;animation: typewriter 4s steps(44) 1s 1 normal both,
              blinkTextCursor 500ms steps(44) infinite normal;">About Me</h1>
-   <p id="demo"></p>
+   @-webkit-keyframes typing {
+    from { width: 0 }
+    to { width:16.3em }
+}
 
-var i = 0;
-var txt = 'Lorem ipsum typing effect!'; 
-var speed = 50; 
+@-moz-keyframes typing {
+    from { width: 0 }
+    to { width:16.3em }
+}
 
-function typeWriter() {
-  if (i < txt.length) {
-    document.getElementById("demo").innerHTML += txt.charAt(i);
-    i++;
-    setTimeout(typeWriter, speed);
-  }
-}        
+@-webkit-keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: black }
+}
+
+@-moz-keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: black }
+}
+
+body { font-family: Consolas, monospace; }
+
+h1 { 
+    font-size:150%;
+    width:16.3em;
+    white-space:nowrap;
+    overflow:hidden;
+    border-right: .1em solid black;
+    
+    -webkit-animation: typing 17s steps(30, end), /* # of steps = # of characters */
+                        blink-caret 1s step-end infinite;
+    -moz-animation: typing 17s steps(30, end), /* # of steps = # of characters */
+                        blink-caret 1s step-end infinite;
+}
+   
    <p style = "font-size: 20px; font-family: helvetica;">Hello! I am <strong>Surbhi</strong>. I'm a <u>backend-end developer</u> and a <u>learning enthusiast</u>. I like to describe myself as a <i>Tech-Savvy</i> and <i>Energetic Engineering College Student seeking Growth</i>, i.e., I am crazy about learning anything and everything related to technology (primarily different fields of <u>Computer Science</u>) as well as enjoying my college life.
 <br><br>
 My first experience with the code was in high school. Though I never had computer science as a subject, I used to listen to my friends' coding experiences now and then. It was when one of my friends told me that she has an intuition that I will love coding, that I became insanely eager to explore the field. I remember spending my vacations in front of laptop searching best teachers online for programming - be it edX, Coursera, Udemy or tens of youtube channels. I remember learning Python, C++ and even Scratch😅 in just two months. 
