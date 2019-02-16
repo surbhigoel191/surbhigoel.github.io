@@ -1,41 +1,6 @@
 <body>
 
-  <h1 style = "font-size: 60px; font-family: didot;animation: typewriter 4s steps(44) 1s 1 normal both,
-             blinkTextCursor 500ms steps(44) infinite normal;">About Me</h1>
-   @-webkit-keyframes typing {
-    from { width: 0 }
-    to { width:16.3em }
-}
-
-@-moz-keyframes typing {
-    from { width: 0 }
-    to { width:16.3em }
-}
-
-@-webkit-keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: black }
-}
-
-@-moz-keyframes blink-caret {
-    from, to { border-color: transparent }
-    50% { border-color: black }
-}
-
-body { font-family: Consolas, monospace; }
-
-h1 { 
-    font-size:150%;
-    width:16.3em;
-    white-space:nowrap;
-    overflow:hidden;
-    border-right: .1em solid black;
-    
-    -webkit-animation: typing 17s steps(30, end), /* # of steps = # of characters */
-                        blink-caret 1s step-end infinite;
-    -moz-animation: typing 17s steps(30, end), /* # of steps = # of characters */
-                        blink-caret 1s step-end infinite;
-}
+  <h1 style = "font-size: 60px; font-family: didot; transform: skewY(-8deg);">About Me</h1>
    
    <p style = "font-size: 20px; font-family: helvetica;">Hello! I am <strong>Surbhi</strong>. I'm a <u>backend-end developer</u> and a <u>learning enthusiast</u>. I like to describe myself as a <i>Tech-Savvy</i> and <i>Energetic Engineering College Student seeking Growth</i>, i.e., I am crazy about learning anything and everything related to technology (primarily different fields of <u>Computer Science</u>) as well as enjoying my college life.
 <br><br>
