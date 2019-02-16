@@ -1,6 +1,11 @@
 <body>
 
-  <h1 style = "font-size: 60px; font-family: didot; transform: skewY(-3deg); box-shadow: 0 0 0 10px #a142f4">About Me</h1>
+  <h1 style = "font-size: 60px; font-family: didot; transform: skewY(-3deg); animation: animated-text 2s steps(30,end) 1s 1 normal both;}>About Me</h1>
+  
+  @keyframes animated-text{
+  from{width: 0;}
+  to{width: 472px;}
+  }
    
    <p style = "font-size: 20px; font-family: helvetica;">Hello! I am <strong>Surbhi</strong>. I'm a <u>backend-end developer</u> and a <u>learning enthusiast</u>. I like to describe myself as a <i>Tech-Savvy</i> and <i>Energetic Engineering College Student seeking Growth</i>, i.e., I am crazy about learning anything and everything related to technology (primarily different fields of <u>Computer Science</u>) as well as enjoying my college life.
 <br><br>
