@@ -1,5 +1,5 @@
 <head>
-  <link rel="stylesheet" type="css" href="style.css"></link>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
 </head>
 <body>
 
