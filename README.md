@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="animate.css" type="text/css">
 </head>
 <body>
-
+  background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.boingboing.net%2Fwp-content%2Fuploads%2F2018%2F05%2Fcool-background1.png&imgrefurl=https%3A%2F%2Fboingboing.net%2F2018%2F05%2F25%2Fcool-backgrounds.html&docid=VzNLOh9OIDMidM&tbnid=9jNOHD0ecxD3IM%3A&vet=10ahUKEwjcv6jhlK_iAhUXA3IKHSVkAkoQMwh-KAYwBg..i&w=1192&h=600&bih=576&biw=1366&q=cool%20backgrounds&ved=0ahUKEwjcv6jhlK_iAhUXA3IKHSVkAkoQMwh-KAYwBg&iact=mrc&uact=8");
   <h1 class = "animated bounceInDown">About Me</h1>
 
    <p style = "font-size: 20px; font-family: helvetica;">Hello! I am <strong>Surbhi</strong>. I'm a <u>backend-end developer</u> and a <u>learning enthusiast</u>. I like to describe myself as a <i>Tech-Savvy</i> and <i>Energetic Engineering College Student seeking Growth</i>, i.e., I am crazy about learning anything and everything related to technology (primarily different fields of <u>Computer Science</u>) as well as enjoying my college life.
