@@ -1,0 +1,20 @@
+#borderimg {
+  border: 100px solid transparent;
+  padding: 15px;
+  border-image: url(https://cdn.pixabay.com/photo/2016/10/24/14/44/corner-1766270_960_720.jpg) 30% round;
+}
+h1{
+  font-size: 50px;
+  text-align: center;
+  text-shadow: 3px 3px purple;
+}
+h3{
+  font-size: 30px;
+  font-family: helvetica
+
+}
+<marquee scrollamount="10"
+direction="up"
+behavior="scroll">
+<image ="https://c8.alamy.com/comp/HNKWGA/deep-pink-balloon-with-ribbon-flying-on-isolated-on-white-background-HNKWGA.jpg">
+</marquee>
