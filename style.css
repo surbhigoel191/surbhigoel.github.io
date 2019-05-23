@@ -1,0 +1,26 @@
+#borderimg {
+  border: 50px solid transparent;
+  padding: 0px;
+  border-image: url(https://cdn.pixabay.com/photo/2016/10/24/14/44/corner-1766270_960_720.jpg) 30% round;
+}
+h1{
+  font-size: 50px;
+  text-align: center;
+  text-shadow: 3px 3px purple;
+}
+h3{
+  font-size: 30px;
+  font-family: helvetica
+
+}
+.animated{
+  animation-play-state: running;
+  animation-iteration-count: infinite;
+}
+body{
+}
+p{
+}
+img{
+  opacity: 0.5;
+}
