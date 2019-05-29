@@ -7,12 +7,8 @@ new WOW().init();
 </script>
 </head>
 <body>
-  <marquee scrollamount="10"
-direction="up"
-behavior="scroll">
-  <img src="https://previews.123rf.com/images/afe207/afe2071308/afe207130800207/21759585-pink-balloon-ribbon.jpg" style="position:absolute; TOP:535px; LEFT:170px;width:150px;height:160px;"/>
-</marquee>
-  <h1 class = "wow animated pulse slower" id ="borderimg">About Me</h1>
+  <div class="wow fadeIn slower"> 
+  <h1 class = "wow animated lightSpeedIn">About Me</h1>
 
    <p style = "font-size: 20px; font-family: helvetica;">Hello! I am <strong>Surbhi</strong>. I'm a <u>backend-end developer</u> and a <u>learning enthusiast</u>. I like to describe myself as a <i>Tech-Savvy</i> and <i>Energetic Engineering College Student seeking Growth</i>, i.e., I am crazy about learning anything and everything related to technology (primarily different fields of <u>Computer Science</u>) as well as enjoying my college life.
 <br><br>
@@ -22,7 +18,7 @@ My first experience with the code was in high school. Though I never had compute
 <br><br>
 <i>This website is all about me - my projects, achievements, and interests. My contact information is available at the bottom of the page.</i></p>
 <br><br>
-  <h1 class = "wow animated pulse slower" id ="borderimg">Projects<h1>
+  <h1 class = "wow animated lightSpeedIn" id ="borderimg">Projects<h1>
   <h3>Some of my projects-</h3>
     <ul>
       <li>
@@ -36,14 +32,14 @@ My first experience with the code was in high school. Though I never had compute
       </li>
   </ul>
   <br><br>
-  <h1 class = "wow animated pulse slower" id ="borderimg">Education<h1>
-     <p><ul type = "circle">
+  <h1 class = "wow animated lightSpeedIn" id ="borderimg">Education<h1>
+     <h3><ul type = "circle">
          <li>Freshman, B.E. Honors in Electronics and Instrumentation Engineering, BITS Pilani, Pilani Campus</li>
        <li>Class 12th, CBSE Board, M.M Public School, 91.8%</li>
        <li>Class 10th, CBSE Board, Mother Divine Public School, CGPA: 10/10</li>
-    </ul></p>
+    </ul></h3>
     <br><br>
-    <h1 class = "wow animated pulse slower" id ="borderimg">Contact Me</h1>
+    <h1 class = "wow animated lightSpeedIn" id ="borderimg">Contact Me</h1>
   <p><ul>
    <li>
       <a href="f20180424@pilani.bits-pilani.ac.in">Official e-mail</a>
@@ -58,5 +54,5 @@ My first experience with the code was in high school. Though I never had compute
       <a href="https://linkedin.com/in/surbhi-goel-194846177/">LinkedIn</a>
    </li>
     </ul></p>
-
+</div>
 </body>
