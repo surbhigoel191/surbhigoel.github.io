@@ -11,7 +11,12 @@
  height: 500px;
     text-align: center;
 }
-
+.fa-stack.fa-2x {
+  color: #5a5a5a;
+}
+.fa-stack:hover .fa-circle {
+  color: #42a5f5;
+}
 
 /* .item1 {
   background-color:red;
