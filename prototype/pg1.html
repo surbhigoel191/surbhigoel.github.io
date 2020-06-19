@@ -1,0 +1,92 @@
+<html lang="en">
+<head>
+    <title>InfoBITS</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">
+    <link href="//fonts.googleapis.com/css?family=Lobster&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+</head>
+<style type="text/css">
+    h1{
+        position: absolute;
+        left: 0px
+    }
+    .wlcm{
+
+        font: 'Lobster', cursive;
+        font-size: 100px;
+        font-style: italic;
+        position: absolute;
+        left: 550px;
+        top: 150px;
+        color: white;
+
+    }
+    .nxtbtn1 {
+        position: absolute;
+        left: 200px;
+        top: 350px;
+        font-size: 104px;
+    }
+    .nxtbtn2 {
+        position: absolute;
+        left: 700px;
+        top: 350px;
+        font-size: 104px;
+    }
+    .nxtbtn3 {
+        position: absolute;
+        left: 450px;
+        top: 450px;
+        font-size: 104px;
+    }
+    .bg {
+      animation:slide 3s ease-in-out infinite alternate;
+      background-image: linear-gradient(-60deg, #6c3 50%, #09f 50%);
+      bottom:0;
+      left:-50%;
+      opacity:.5;
+      position:fixed;
+      right:-50%;
+      top:0;
+      z-index:-1;
+  }
+
+  .bg2 {
+      animation-direction:alternate-reverse;
+      animation-duration:4s;
+  }
+
+  .bg3 {
+      animation-duration:5s;
+  }
+  @keyframes slide {
+      0% {
+        transform:translateX(-25%);
+    }
+    100% {
+        transform:translateX(25%);
+    }
+}
+</style>
+<div class="bg"></div>
+<div class="bg bg2"></div>
+<div class="bg bg3"></div>
+<body>
+ <div class="wlcm">
+    <h1 class = "animated tada">Welcome To InfoBITS.ORG!</h1>
+</div>
+<div class="nxtbtn1">
+    <button type="button" class="btn btn-success" style="width: 400px; height: 100px;font-size : 500px; background-color: white"><a href="pg2.html"><h4>Read an Article</h4></a></button>
+</div>
+<div class="nxtbtn2">
+    <button type="button" class="btn btn-success" style="width: 400px; height: 100px;font-size : 500px; background-color: white"><a href="pg3.html"><h4>Ask/Answer a Question</h4></a></button>
+</div>
+<div class="nxtbtn3">
+    <button type="button" class="btn btn-success" style="width: 400px; height: 100px;font-size : 500px; background-color: white"><a href="pg4.html"><h4>Loosen Up</h4></a></button>
+</div>
+
+<br>
+<br>
+</body>
+</html>
