@@ -1,3 +1,32 @@
+.surbhi-centerheader {
+  text-align: center;
+  background-color: white;
+}
+
+.surbhi-profile-pic {
+  border-radius: 50%;
+}
+
+.carousel-item {
+ height: 500px;
+    text-align: center;
+}
+
+
+.item1 {
+  background-color:red;
+  /*height: 100px;*/
+}
+
+.item2 {
+  background-color:yellow;
+  /*height: 100px;*/
+}
+
+.item3 {
+  background-color:blue;
+  /*height: 100px;*/
+}
 #borderimg {
   border: 50px solid transparent;
   padding: 0px;
