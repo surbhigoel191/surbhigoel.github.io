@@ -13,20 +13,20 @@
 }
 
 
-.item1 {
+/* .item1 {
   background-color:red;
-  /*height: 100px;*/
+  height: 100px;
 }
 
-.item2 {
+ .item2 {
   background-color:yellow;
-  /*height: 100px;*/
-}
+  height: 100px;
+} 
 
 .item3 {
   background-color:blue;
-  /*height: 100px;*/
-}
+  /*height: 100px;
+}*/
 #borderimg {
   border: 50px solid transparent;
   padding: 0px;
