@@ -11,6 +11,9 @@
   position: absolute;
   width: 100%;
   height: 100%;
+  background-color: #FFCA00;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .carousel-item {
  height: 500px;
