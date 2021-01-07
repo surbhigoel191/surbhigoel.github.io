@@ -9,8 +9,11 @@
 }
 .navbar-brand{
   font-family: mustardo;
-  font-size: 26px;
+  font-size: 26px !important;
   color: #FFAC00;
+}
+.navbar{
+  padding-top: 25px !important;
 }
 .surbhi-profile-pic {
   border-radius: 50%;
