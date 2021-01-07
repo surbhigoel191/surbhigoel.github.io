@@ -1,25 +1,36 @@
 .surbhi-centerheader {
   text-align: center;
 }
-
+@font-face{
+  font-family: mustardo;
+  src: url('mustardo.ttf');
+  font-size: 25px;
+  color: #FFAC00;
+}
+.navbar-brand{
+  font-family: mustardo;
+  font-size: 26px;
+  color: #FFAC00;
+}
 .surbhi-profile-pic {
   border-radius: 50%;
 }
-
+.tex{
+  color: silver;
+}
 #particles-js{
   position: absolute;
+  margin-top: -20px;
   width: 100%;
   height: 100%;
-  background-color: #FFCA00;
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-color: #242424;
 }
 .carousel-item {
  height: 500px;
     text-align: center;
 }
 .fa-stack.fa-2x {
-  color: #5a5a5a;
+  color: #ffac00;
 }
 .fa-stack:hover .fa-circle {
   color: #42a5f5;
@@ -31,7 +42,7 @@ footer hr {
   background: #ddd;
 }
 footer {
-  background-color: #eee;
+  background-color: #242424;
   padding-bottom: 100px;
 }
 /* .item1 {
@@ -56,7 +67,7 @@ footer {
 h1{
   font-size: 50px;
   text-align: center;
-  text-shadow: 3px 3px purple;
+  text-shadow: 3px 3px #FFCA00;
 }
 h3{
   font-size: 30px;
@@ -68,13 +79,18 @@ h3{
   animation-iteration-count: infinite;
 }
 body{
+  overflow: hidden;
+}
+.mat{
+  overflow: hidden;
 }
 p{
 }
 .footer{
   padding:40px 20px;
   flex-grow:0;
-  color:#999
+  color:#242424
+  background: #242424;
 }
 .footer__inner{
   display:flex;
@@ -101,7 +117,7 @@ p{
     margin-top:10px
   }
 }.footer__content>*:not(:last-child)::after{
-  content:"•";
+  content:"";
   padding:0 5px
 }
 @media(max-width:900px){
@@ -110,12 +126,31 @@ p{
     padding:0
   }
 }.footer__content>*:last-child{
-  padding:0 5px
+  padding:0 2px
 }
 @media(max-width:900px){
   .footer__content>*:last-child{
     padding:0
   }
+}
+a{
+    text-decoration:none;
+}
+.bor{
+    position: relative;
+    font-size: 16px;
+}
+.bor:hover::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 0;    
+    left: 0;
+    bottom: 10px;
+    border-bottom: 3px solid #ffac00;  
+}
+.navbar{
+  margin-bottom: -20px;
 }
 /* img{
   opacity: 0.5;
