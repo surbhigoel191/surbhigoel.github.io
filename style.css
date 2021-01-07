@@ -4,13 +4,12 @@
 @font-face{
   font-family: mustardo;
   src: url('mustardo.ttf');
-  font-size: 25px;
   color: #FFAC00;
 }
 .navbar-brand{
   font-family: mustardo;
   font-size: 26px !important;
-  color: #FFAC00;
+  color: #FFAC00 !important;
 }
 .navbar{
   padding-top: 25px !important;
@@ -151,6 +150,9 @@ a{
     left: 0;
     bottom: 10px;
     border-bottom: 3px solid #ffac00;  
+}
+.navbar-brand:hover{
+  color: white !important;
 }
 .navbar{
   margin-bottom: -20px;
