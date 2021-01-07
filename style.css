@@ -13,6 +13,9 @@
 .navbar{
   padding-top: 5px !important;
 }
+.nav-link{
+  color: white !important;
+}
 .surbhi-profile-pic {
   border-radius: 50%;
 }
@@ -110,7 +113,7 @@ p{
   display:flex;
   flex-direction:row;
   align-items:center;
-  font-size:1rem;
+  font-size:2rem;
   color:#999
 }@media(max-width:900px){
   .footer__content{
@@ -148,6 +151,20 @@ a{
     height: 0;    
     left: 0;
     bottom: 10px;
+    border-bottom: 3px solid #ffac00;  
+}
+.bord{
+    position: relative;
+    font-size: 2rem;
+    color: #999999;
+}
+.bord:hover::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 0;    
+    left: 0;
+    bottom: -2px;
     border-bottom: 3px solid #ffac00;  
 }
 .navbar-brand:hover{
