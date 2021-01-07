@@ -4,7 +4,6 @@
 @font-face{
   font-family: mustardo;
   src: url('mustardo.ttf');
-  color: #FFAC00;
 }
 .navbar-brand{
   font-family: mustardo;
@@ -12,7 +11,7 @@
   color: #FFAC00 !important;
 }
 .navbar{
-  padding-top: 25px !important;
+  padding-top: 5px !important;
 }
 .surbhi-profile-pic {
   border-radius: 50%;
